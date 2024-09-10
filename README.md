@@ -1,7 +1,9 @@
 # act7_clases_v1
 ## clases
-- ![image](https://github.com/user-attachments/assets/fa23268f-8ffb-419a-9bac-336860da403d)
+- ![image](https://github.com/user-attachments/assets/6a20d260-911c-4543-b774-5400f8d1fa63)
+
 - resultado
-- ![image](https://github.com/user-attachments/assets/b13e29d7-24ae-48c5-8952-d5e337ad7289)
+- ![image](https://github.com/user-attachments/assets/7e0fa1d4-76fd-463e-a4f5-f08279652830)
+
 
 
